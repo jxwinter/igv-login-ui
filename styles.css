@@ -1,9 +1,9 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --igv-orange: #3B82F6;
-  --igv-orange-light: #DBEAFE;
-  --igv-orange-hover: #2563EB;
+  --igv-orange: #10B981;
+  --igv-orange-light: #D1FAE5;
+  --igv-orange-hover: #059669;
   --text-primary: #1a1a1a;
   --text-secondary: #6b7280;
   --text-muted: #9ca3af;
@@ -131,7 +131,7 @@ body {
 
 /* ── 上次登录卡片 ── */
 .last-login-card {
-  background: #EFF6FF;
+  background: #ECFDF5;
   border: 1.5px solid var(--igv-orange);
   border-radius: 14px;
   padding: 16px;
@@ -216,7 +216,7 @@ body {
 .input-wrapper input::placeholder { color: var(--text-muted); }
 .input-wrapper input:focus {
   border-color: var(--igv-orange);
-  box-shadow: 0 0 0 3px rgba(59,130,246,0.1);
+  box-shadow: 0 0 0 3px rgba(16,185,129,0.1);
 }
 
 /* ── 主按钮 ── */
@@ -231,7 +231,7 @@ body {
 
 .btn-primary:hover {
   background: var(--igv-orange-hover);
-  box-shadow: 0 6px 18px rgba(59,130,246,0.32);
+  box-shadow: 0 6px 18px rgba(16,185,129,0.32);
 }
 
 /* ── 文字链接 ── */
