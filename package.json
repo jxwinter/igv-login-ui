@@ -1,0 +1,10 @@
+{
+  "name": "igv-login-ui",
+  "version": "1.0.0",
+  "description": "iGV login page UI mockup",
+  "scripts": {
+    "start": "npx --yes serve -p 3000 .",
+    "dev": "npx --yes serve -p 3000 ."
+  },
+  "license": "MIT"
+}

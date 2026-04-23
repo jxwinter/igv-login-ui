@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "igv-login-ui",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["--yes", "serve", "-p", "3000", "/Users/jiangxu/Desktop/Claude-Demo/igv-login-ui"],
+      "port": 3000
+    }
+  ]
+}
